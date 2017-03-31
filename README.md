@@ -1,2 +1,5 @@
 # DB.Tools.WhoIs
-Simple project used to discover VS2017, C# 7 and Docker.
+
+Create a home, put people in that home and keep track of their presence.
+
+Simple project used to discover VS2017, C# 7, ASP.Net CORE and Docker.
